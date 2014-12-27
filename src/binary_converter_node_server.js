@@ -35,7 +35,7 @@ function isFloat(val) {
 }
 
 function isHex(val) {
-    return val.length && !isNaN(parseInt(val,16))
+    return val.length && !isNaN(parseInt(val,16));
 }
 
 function floatToHexIEEE754_32Bit(no) {
