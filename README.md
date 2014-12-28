@@ -35,3 +35,9 @@ This returns the binary value <code>110010</code> (radix 2).
 Navigate to <code>binary_converter_node_server_spec.js</code>, start up cmd or terminal and execute the following:
 
 <p><code>jasmine-node-karma binary_converter_node_server_spec.js</code></p>
+
+<h2>Current Conversion Support</h2>
+
+- Positive integers to binary
+- Positive floats to binary
+- Hex to binary
