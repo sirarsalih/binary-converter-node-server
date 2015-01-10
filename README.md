@@ -4,7 +4,7 @@ A node server for your binary conversion needs!
 
 <h2>Disclaimer</h2>
 
-The hex to float and float to hex conversion functions were not written by me. They were accomolated from users' input at <a href="http://stackoverflow.com/" target="_blank">StackOverflow.com</a> and are therefore protected by the <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons License (CC-BY-SA)</a> - and so is this repository.
+The float to hex and hex to float conversion functions were not written by me. They were accomolated from users' input at <a href="http://stackoverflow.com/" target="_blank">StackOverflow.com</a> and are therefore protected by the <a href="https://creativecommons.org/licenses/by-sa/2.0/" target="_blank">Creative Commons License (CC-BY-SA)</a> - and so is this repository.
 
 <h2>Current Support</h2>
 
